@@ -3,7 +3,7 @@
 The following code returns NaN when the input is empty.
 
 ```cpp
-	if (values.empty()) {
+  if (values.empty()) {
     double nan = std::numeric_limits<double>::quiet_NaN();
     return Statistics::Stats(nan, nan, nan);
   }
