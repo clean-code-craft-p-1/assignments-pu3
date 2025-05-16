@@ -16,7 +16,9 @@ Mon - session - recap + next assignment
 
 ## Try It
 
-[Modular well-named](small.md)
+[Fail the false positives](fail.md)
+
+[Modular well-named](small.md) and [recap](small-recap.md)
 
 [Spec as test](spec-as-test.md) and [recap](spec-as-test-recap.md)
 
