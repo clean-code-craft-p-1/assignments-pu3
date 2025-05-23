@@ -16,7 +16,9 @@ Mon - session - recap + next assignment
 
 ## Try It
 
-[Fail the false positives](fail.md)
+[Fix the code to pass](pass.md)
+
+[Fail the false positives](fail.md) and [recap](fail-recap.md)
 
 [Modular well-named](small.md) and [recap](small-recap.md)
 
