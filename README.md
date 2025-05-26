@@ -16,7 +16,7 @@ Mon - session - recap + next assignment
 
 ## Try It
 
-[Fix the code to pass](pass.md)
+[Reduce complexity](functional.md)
 
 [Fail the false positives](fail.md) and [recap](fail-recap.md)
 
