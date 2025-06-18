@@ -1,5 +1,9 @@
 # Habits for speed and reliability
 
+## Summary
+
+[Click here](transcripts.md) for the course transcripts.
+
 ## Assignment per week
 
 Mon - session - clone + read assignment code
