@@ -20,6 +20,8 @@ Mon - session - recap + next assignment
 
 ## Try It
 
+[Extend and Refactor](extend-refactor.md)
+
 [Reduce complexity](functional.md)
 
 [Fail the false positives](fail.md) and [recap](fail-recap.md)
