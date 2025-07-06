@@ -2,7 +2,7 @@
 
 ## Summary
 
-[Click here](transcripts.md) for the course transcripts.
+[Session transcripts](transcripts.md)
 
 ## Assignment per week
 
@@ -20,15 +20,7 @@ Mon - session - recap + next assignment
 
 ## Try It
 
-[Extend and Refactor](extend-refactor.md)
-
-[Reduce complexity](functional.md)
-
-[Fail the false positives](fail.md) and [recap](fail-recap.md)
-
-[Modular well-named](small.md) and [recap](small-recap.md)
-
-[Spec as test](spec-as-test.md) and [recap](spec-as-test-recap.md)
+[Spec as test](spec-as-test.md)
 
 ## References
 
