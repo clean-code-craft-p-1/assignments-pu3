@@ -1,9 +1,5 @@
 # Habits for speed and reliability
 
-## Summary
-
-[Session transcripts](transcripts.md)
-
 ## Assignment per week
 
 Mon - session - clone + read assignment code
@@ -21,6 +17,10 @@ Mon - session - recap + next assignment
 ## Try It
 
 [Spec as test](spec-as-test.md)
+
+## Summary
+
+[Session transcripts](transcripts.md)
 
 ## References
 
