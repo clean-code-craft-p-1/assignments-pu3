@@ -1,20 +1,8 @@
 # Habits for speed and reliability
 
-## Assignment per week
-
-Mon - session - clone + read assignment code
-
----
-
-Tue-Thu EoD --> (do many small commits)
-
-Fri --> Review
-
----
-
-Mon - session - recap + next assignment
-
 ## Try It
+
+[Modular well-named](small.md)
 
 [Spec as test](spec-as-test.md)
 
