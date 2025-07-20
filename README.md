@@ -16,6 +16,8 @@ Mon - session - recap + next assignment
 
 ## Try It
 
+[Fix the false positive](fail.md)
+
 [Spec as test](spec-as-test.md)
 
 ## Summary
