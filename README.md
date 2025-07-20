@@ -1,22 +1,10 @@
 # Habits for speed and reliability
 
-## Assignment per week
-
-Mon - session - clone + read assignment code
-
----
-
-Tue-Thu EoD --> (do many small commits)
-
-Fri --> Review
-
----
-
-Mon - session - recap + next assignment
-
 ## Try It
 
 [Fix the false positive](fail.md)
+
+[Modular well-named](small.md)
 
 [Spec as test](spec-as-test.md)
 
