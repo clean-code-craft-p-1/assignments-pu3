@@ -2,6 +2,8 @@
 
 ## Try It
 
+[Reduce complexity](functional.md)
+
 [Fix the false positive](fail.md)
 
 [Modular well-named](small.md)
