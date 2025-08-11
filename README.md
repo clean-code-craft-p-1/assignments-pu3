@@ -2,6 +2,8 @@
 
 ## Try It
 
+[Add features](extend-refactor.md)
+
 [Reduce complexity](functional.md)
 
 [Fix the false positive](fail.md)
