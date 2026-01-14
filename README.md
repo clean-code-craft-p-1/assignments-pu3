@@ -2,15 +2,15 @@
 
 ## Try It
 
-[Add features](extend-refactor.md)
-
-[Reduce complexity](functional.md)
-
-[Fix the false positive](fail.md)
+[Spec as test](spec-as-test.md)
 
 [Modular well-named](small.md)
 
-[Spec as test](spec-as-test.md)
+[Strong tests](fail.md)
+
+[Reduce complexity](functional.md)
+
+[Add features](extend-refactor.md)
 
 ## Summary
 
