@@ -39,7 +39,7 @@ graph LR
 
 ## Cycle of value
 
-The cycle of value is a cycle of writing code, testing it, and then refactoring it to improve its quality.
+The cycle of value is about coding with tests and refactoring.
 This cycle keeps the code healthy and easy to maintain.
 It's like brushing your teeth - do it every day to keep your teeth healthy.
 
@@ -164,5 +164,6 @@ But testing end-to-end behavior is complex, debugging flow requires tooling.
 Let consumers describe behavior in their own language, relying on an AI Agent (LLM) to interpret and route to your individual modules.
 
 Consumers can try new things without having developers in the loop.
+
 
 But being probabilistic models, they often deliver different results in successive runs.
