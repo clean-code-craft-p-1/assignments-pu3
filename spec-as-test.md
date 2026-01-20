@@ -4,7 +4,7 @@ In this assignment you get a specification in tests. Write minimal code to pass 
 
 Pick the assignment in your language:
 
-[C++](https://classroom.github.com/a/X1TGl-OP)
+[C++](https://classroom.github.com/a/Ugixfrq4)
 
 [C#](https://classroom.github.com/a/D5oKnc0D)
 
@@ -23,3 +23,4 @@ Notice the different artifacts in your repo:
 1. Build inclusions: Source files and dependencies to include
 1. The build workflow: Gather dependencies + generate binary (depending on the language)
 1. Workflow to run the tests
+
